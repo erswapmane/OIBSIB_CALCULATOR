@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url(/public/back.jpg);
+  background-image: url(/back.jpg);
   font-family: serif;
 }
 
@@ -92,7 +92,7 @@ button#equal{
 }
 
 .calculator button.btn-operator{
-  background-color: #9a0090;
+  background-color: #ffbd07;
   color: #ffffff;
 }
 
