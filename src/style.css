@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url(/back.jpg);
+  background-image: radial-gradient(rgb(77, 215, 224),rgb(229, 245, 229),rgb(255, 54, 54));
   font-family: serif;
 }
 
